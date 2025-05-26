@@ -7,3 +7,4 @@ scikit-learn
 tqdm                #please use this to train your model. 
 matplotlib
 torch
+imblearn
